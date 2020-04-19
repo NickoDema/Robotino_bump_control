@@ -3,6 +3,6 @@
 The method takes data from lidar and user command represented as the desired speed vector from a joystick and 
 changes this vector to prevent collisions with obstacles.
 
-<img src="https://github.com/NickoDema/Robotino_bump_control/blob/master/docs/pics/schematic_rep.png" alt="ops" width="30%" height="30%">
+[Full description (rus)](docs/report_2015.pdf)
 
-[Full description (rus)](https://github.com/NickoDema/Robotino_bump_control/blob/master/docs/report_2015.pdf)
+<img width="400" alt="portfolio_view" src="docs/pics/schematic_rep.png">
